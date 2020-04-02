@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 <h1>Java COMPLETO 2019 Programação Orientada a Objetos +Projetos </h1>
-=======
-Java COMPLETO 2019 Programação Orientada a Objetos +Projetos
->>>>>>> c5f301ed191dc404c9d4b2b09208d9c8acf6eb4a
 •	Lógica de programação e algoritmos
 •	Sintaxe da linguagem Java
 •	Classes, atributos e métodos
